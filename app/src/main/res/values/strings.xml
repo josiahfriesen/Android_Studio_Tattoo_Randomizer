@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tattoo Randomizer</string>
+    <string name="random_button">Randomize!</string>
+</resources>
